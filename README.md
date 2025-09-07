@@ -3,7 +3,7 @@
 A fully responsive recreation of the Monotree employee app website, built for GitHub Community recruitment task.
 
 ## 🌐 Live Demo
-[View Live Website]
+[View Live Website]  https://1aap-s.github.io/monotree-recreation/
 
 ## 🛠️ Technologies Used
 - HTML5
